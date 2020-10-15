@@ -1,0 +1,11 @@
+body {
+	background: #5454;
+	font-family: Alfios, 'Comic Neue', Arial, sans-serif;
+}
+.navi {
+	border: 3px solid blue;
+	width: 420px
+}
+h1, h2 {
+	color: red
+}
